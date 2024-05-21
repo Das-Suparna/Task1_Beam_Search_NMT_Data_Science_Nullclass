@@ -25,5 +25,5 @@ pip install numpy
 ```
 python task1_beam_search.py
 ```
-
+## Screenshots
 ![C__Windows_System32_cmd exe 21-05-2024 12_26_03](https://github.com/Das-Suparna/Task1_Beam_Search_NMT_Data_Science_Nullclass/assets/131431013/6af45fb3-7f56-4834-8774-4f7534a5d161)
