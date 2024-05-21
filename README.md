@@ -4,7 +4,7 @@ Implement beam search decoding for an NMT model to improve translation quality.
 
 ## Requirements
 - Python 3.x
-- NumPy
+- `numpy` library
 
 ## Installation
 1. Clone the repository:
@@ -13,7 +13,7 @@ git clone https://github.com/Das-Suparna/Task1_Beam_Search_NMT_Data_Science_Null
 ```
 2. Move to Directory
 ```
-cd
+cd Task1_Beam_Search_NMT_Data_Science_Nullclass
 ```
 
 3.Install the required dependencies:
